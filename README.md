@@ -43,10 +43,13 @@ I use DAX to create the following measures;
 9. Top 5 agents with the highest number of average speed of answered calls may indicate agents who are prompt in responding to customer queries.
     
 ## Conclusion And Recommendation
+Recommendation
+
 1. Focus on enhancing overall satisfaction by addressing areas of improvement, such as resolution rates and agent performance.
 2. Provide additional training and support to agents with lower satisfaction ratings to improve their performance and customer interactions.
 3. Investigate topics with low satisfaction ratings and work on improving service quality and resolution times for these topics.
 4. Recognize and reward agents with high resolution rates and satisfactory customer interactions to encourage continued performance.
 
    Conclusion:
+   
 Despite having a reasonable average speed of answered calls, there's room for improvement in overall satisfaction. Analysis of agent performance, call topics, and monthly trends provides insights into areas that require attention. By implementing targeted strategies to address these areas, such as training, topic-specific improvements, and performance recognition, the call center can enhance customer satisfaction and overall efficiency in handling customer inquiries and issues. Regular monitoring and adjustments based on feedback and analysis will be essential for ongoing improvement.
