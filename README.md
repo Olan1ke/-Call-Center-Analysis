@@ -1,7 +1,7 @@
 # Call Center Analysis
 
 ## Introduction
-This data is about a call center,we were asked to give insight about the customer and call agent behaviour,
+This data is about a call center,we were asked to give insight about the customer and call agent behaviour.
 
 ## PowerBi Concept Applied;
 1. PowerBi Query Editor
@@ -15,7 +15,7 @@ This data is about a call center,we were asked to give insight about the custome
 •	Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## Data Sourcing
-This data from PWC Forage Internship. The dataset is in Excel workbook format, encompassing one table, The table has 10 columns and 50000 rows,The column header are;Call Id,Agent,Date,Time,Topic,Answered (Y/N),Resolved,Speed of answer in seconds,AvgTalkDuration,Satisfaction rating
+This data from PWC Forage Internship. The dataset is in Excel workbook format, encompassing one table, The table has 10 columns and 50000 rows,The column header are;Call Id,Agent,Date,Time,Topic,Answered (Y/N),Resolved,Speed of answer in seconds,AvgTalkDuration,Satisfaction rating.
 
 ## Data Cleaning/Transformation
 I used power query editor in PowerBi for the cleaning and transformation, These are the steps taken;
